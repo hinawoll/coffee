@@ -80,7 +80,7 @@
 .main #menu {
   margin-top: 20px; }
   .main #menu .back-img {
-    background-image: url(../img/menu.jpg); }
+    background-image: url(img/menu.jpg); }
   .main #menu .flex {
     display: flex;
     justify-content: space-between; }
